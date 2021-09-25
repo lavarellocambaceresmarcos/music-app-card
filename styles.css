@@ -34,7 +34,7 @@ body {
 }
 
 .hero {
-    background-image: url(/img/illustration-hero.svg);
+    background-image: url(img/illustration-hero.svg);
     height: 30%;
     background-position: center;
     background-size: cover;
